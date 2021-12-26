@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LNZaIRG2cyXZNUF4NcipMD9WGaCYwqo+6z8qAt7aHkUuJCRTk+a4LogGVnNlah/CFYLcTKYjKD147MonOQ22QQ==",
+  "success": true,
+  "projectFilePath": "/Users/chadlada/Desktop/sdg/NumberTracker/NumberTracker.csproj",
+  "expectedPackageFiles": [
+    "/Users/chadlada/.nuget/packages/csvhelper/27.2.1/csvhelper.27.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}
